@@ -22,7 +22,7 @@ replace '3' with number of times the board needs to be shuffled
 Breadth-First Search
 java -Xmx1024m solve 8puzzle bfs 5 6 8 4 0 1 2 3 7
 
-Breadth-First Search
+Depth-First Search
 java -Xmx1024m solve 8puzzle dfs 5 6 8 4 0 1 2 3 7
 
 Replace '5 6 8 4 0 1 2 3 7' with your shuffled puzzle in the same format
